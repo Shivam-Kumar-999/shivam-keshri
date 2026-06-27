@@ -20,7 +20,7 @@ Full Stack Web Developer | JavaScript Enthusiast | Problem Solver
 - 🎯 Goal: Become a Professional Software Engineer
 - ⚡ Love Coding, UI Design & Problem Solving
 
-<!-- Skill--
+<!-- Skill-->
 - ## 🚀 Tech Stack
 
 ### Frontend
